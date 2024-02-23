@@ -1,4 +1,4 @@
-// console.log("Hello")
+console.log("Hello")
 
 const express = require('express') //require module syntax
 const app = express()
